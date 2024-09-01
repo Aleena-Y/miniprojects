@@ -1,2 +1,2 @@
-# coursera
-learning things through coursera
+# mini projects
+projects I did for fun
